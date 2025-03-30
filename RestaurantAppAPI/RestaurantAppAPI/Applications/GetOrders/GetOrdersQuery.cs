@@ -1,6 +1,9 @@
-﻿namespace RestaurantAppAPI.Applications.GetOrders
+﻿using MediatR;
+
+namespace RestaurantAppAPI.Applications.GetOrders
 {
-    public class GetOrdersQuery
+    public class GetOrdersQuery : IRequest<GetOrdersQueryResponse>
     {
+
     }
 }

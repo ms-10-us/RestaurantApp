@@ -1,5 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using MediatR;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using RestaurantAppAPI.Applications.GetOrders;
+using RestaurantAppAPI.DTOs;
+using RestaurantAppAPI.Mapper;
 
 namespace RestaurantAppAPI.Controller
 {
@@ -7,11 +11,25 @@ namespace RestaurantAppAPI.Controller
     [ApiController]
     public class OrdersController : ControllerBase
     {
-        [HttpPost]
+        private readonly IMediator _mediator;
+         
+        public OrdersController(IMediator mediator)
+        {
+            _mediator = mediator;
+        }
+
+        [HttpGet]
         [Route("GetOrders")]
         public async Task<IActionResult> GetOrders()
         {
-            return Ok();
+
+            GetOrdersQuery query = new GetOrdersQuery();
+
+            GetOrdersQueryResponse responseModel = await _mediator.Send(query);
+
+            GetOrdersResponseDTO response = responseModel.ToDto();
+
+            return Ok(response);
         }
     }
 }
