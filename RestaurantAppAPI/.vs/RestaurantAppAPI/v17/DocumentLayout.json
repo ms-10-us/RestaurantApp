@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\generated\\restaurantappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\generated\\restaurantappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\generated\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\generated\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\applications\\getorders\\getordersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\applications\\getorders\\getordersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\applications\\getorders\\getordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\applications\\getorders\\getordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\applications\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\applications\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\datasql\\ordertable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\datasql\\ordertable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|c:\\users\\mazen\\source\\repos\\restaurantapp\\restaurantappapi\\restaurantappapi\\datasql\\ordertable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{69411968-5CC4-4040-8218-D54BD5A6F8AA}|RestaurantAppAPI\\RestaurantAppAPI.csproj|solutionrelative:restaurantappapi\\datasql\\ordertable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Program.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:54:04.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\appsettings.json",
+              "RelativeToolTip": "RestaurantAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T19:52:28.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantAppDB.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Generated\\RestaurantAppDB.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Generated\\RestaurantAppDB.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Generated\\RestaurantAppDB.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Generated\\RestaurantAppDB.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:51:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Generated\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Generated\\Order.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Generated\\Order.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Generated\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:51:09.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetOrdersQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryResponse.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryResponse.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryResponse.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:37:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetOrdersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryHandler.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:37:17.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetOrdersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQuery.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Applications\\GetOrders\\GetOrdersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:36:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "RestaurantAppAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:29:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderTable.SQL ",
+              "DocumentMoniker": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\DataSQL\\OrderTable.SQL",
+              "RelativeDocumentMoniker": "RestaurantAppAPI\\DataSQL\\OrderTable.SQL",
+              "ToolTip": "C:\\Users\\mazen\\source\\repos\\RestaurantApp\\RestaurantAppAPI\\RestaurantAppAPI\\DataSQL\\OrderTable.SQL",
+              "RelativeToolTip": "RestaurantAppAPI\\DataSQL\\OrderTable.SQL",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-29T15:40:19.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
